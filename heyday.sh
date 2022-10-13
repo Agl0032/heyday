@@ -1,5 +1,5 @@
 #!/bin/bash
-#pronmpt to enter name
+#prompt to enter name
 echo "Hi! what's your name?"
 if [ $# -eq 1 ]; then
 echo "..."
